@@ -32,6 +32,14 @@ npm test
 
 You should see `winners: 1` and `PASS: token was single-use.`
 
+### Observed Output
+
+```
+issued token: 0b84b4dd84c5f04121d6206136442327
+winners: 1
+PASS: token was single-use.
+```
+
 ## Submit
 
 Open a Pull Request containing your `token-service.js`, `test.js`, and paste the
